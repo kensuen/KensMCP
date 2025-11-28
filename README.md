@@ -25,7 +25,7 @@ KensMCP is an MCP server that exposes tools an AI assistant can use to perform r
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/KensMCP.git
+git clone https://github.com/kensuen/KensMCP.git
 cd KensMCP
 
 # Create virtual environment
