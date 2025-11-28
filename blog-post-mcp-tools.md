@@ -91,9 +91,9 @@ Then watch your AI do things it couldn't do yesterday.
 
 ---
 
-*Want to see the full code? Check out [KensMCP on GitHub](#) (coming soon).*
+*Want to see the full code? Check out [KensMCP on GitHub](https://github.com/kensuen/KensMCP).*
 
-*Have questions? Find me on Twitter/X: [@yourhandle](#)*
+*Have questions? Find me on Twitter/X: [@kensuen](https://twitter.com/kensuen)*
 
 ---
 
