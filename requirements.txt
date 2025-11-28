@@ -1,0 +1,16 @@
+# KensMCP Dependencies
+# Install with: pip install -r requirements.txt
+
+# MCP SDK - Model Context Protocol
+mcp>=1.0.0
+
+# HTTP Server dependencies
+aiohttp>=3.9.0
+aiohttp-sse>=2.1.0
+
+# Development dependencies (optional)
+# pytest>=7.0.0
+# pytest-asyncio>=0.21.0
+# black>=23.0.0
+# ruff>=0.1.0
+
